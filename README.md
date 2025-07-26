@@ -14,7 +14,6 @@ Permite ao usuário realizar operações matemáticas simples (adição, subtra�
 | JavaScript | Lógica e interatividade      |
 
 
-
 ## 🧱 Componentes do Projeto:  
 
 - `<input id="display">` – Campo onde a expressão e o resultado são exibidos.  
